@@ -1,0 +1,1 @@
+C:\Users\jacek\Desktop\Zarzadzanie_Kolekcjami_Wojtula-main\CollectionManager.csproj;x64
